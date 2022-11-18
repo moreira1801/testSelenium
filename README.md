@@ -1,2 +1,2 @@
 # testSelenium
- Teste do site varejista Magazine Luiza utilizando a ferramenta Selenium
+Teste funcional do site Magazine Luiza, utilizando o framework Selenium para automação
